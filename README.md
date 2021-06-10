@@ -1,3 +1,4 @@
 # tsheetlaravel
 using 
 - AdminLTE
+- FontAwsome
